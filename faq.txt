@@ -1,0 +1,9 @@
+1. How do I add a new task to my to-do list?
+To add a new task, click on the "New Task" button. Enter the task details in the provided input field and press or click "Save" to add it to your list. The new task will appear in your task list.
+2. Can I edit or update a task after adding it?
+Yes, you can edit or update a task. Simply click on the task you want to edit in View All section, then click Update. A window will open and make the necessary changes, and click "Save" to update the task. Your changes will be reflected immediately in the task list.
+3. How do I mark a task as completed?
+To mark a task as completed, click the checkbox next to 'Complete' label in update section. The task will be marked as completed and may be moved to a "Completed Tasks" section or visually distinguished from the incomplete tasks.
+4. How can I delete a task from my to-do list?
+To delete a task, click on the "Delete" button or icon next to the task you want to remove. Confirm the deletion if prompted, and the task will be permanently removed from your list.
+                
